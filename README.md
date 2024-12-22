@@ -19,9 +19,11 @@ To get some details and background of this project visit the link below:
 
 ### Screenshot
 Desktop version
+
 ![Desktop Screenshot - QR Code Component](./screenshot_qr-code-component_desktop.png)
 
 Mobile version
+
 ![Mobile Screenshot - QR Code Component](./screenshot_qr-code-component_mobile.png)
 
 ### Links
